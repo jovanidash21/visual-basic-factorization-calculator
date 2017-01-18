@@ -11,9 +11,11 @@
                     Console.WriteLine(x)
                 End If
             Next
+            Console.WriteLine()
             Main()
         Else
             Console.WriteLine("Invalid Input")
+            Console.WriteLine()
             Main()
         End If
         Console.ReadLine()
