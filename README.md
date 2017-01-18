@@ -1,7 +1,8 @@
 # Visual Basic - Integer Factor Finder
 ---
-## Screenshots
+## Screenshot
 <p align="center"> 
+	<img src="https://raw.githubusercontent.com/jovanidash21/visual-basic-integer-factor-finder/master/screenshot.png">
 </p>
 
 ## Installation
